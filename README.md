@@ -61,10 +61,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Apache Kafka 1.0 Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/apache-kafka-10-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787286849 ) [[Amazon]](https://www.amazon.com/dp/1787286843)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
 ## Get to Know the Author
 **Raúl Estrada**
 has been a programmer since 1996 and a Java developer since 2001. He loves all topics related to computer science. With more than 15 years of experience in high-availability and enterprise software, he has been designing and implementing architectures since 2003. His specialization is in systems integration, and he mainly participates in projects related to the financial sector. He has been an enterprise architect for BEA Systems and Oracle Inc., but he also enjoys web, mobile, and game programming. Raúl is a supporter of free software and enjoys experimenting with new technologies, frameworks, languages, and methods.
