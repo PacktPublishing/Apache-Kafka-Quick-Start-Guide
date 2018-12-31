@@ -7,7 +7,7 @@ This is the code repository for [Apache Kafka Quick Start Guide](https://www.pac
 **Leverage Apache Kafka 2.0 to simplify real-time data processing for distributed applications**
 
 ## What is this book about?
-Apache Kafka is a great open source platform for handling your real-time data pipeline to ensure high-speed filtering and pattern matching on the ?y. In this book, you will learn how to use Apache Kafka for efficient processing of distributed applications and will get familiar with solving everyday problems in fast data and processing pipelines.
+Apache Kafka is a great open source platform for handling your real-time data pipeline to ensure high-speed filtering and pattern matching on the ﬂy. In this book, you will learn how to use Apache Kafka for efficient processing of distributed applications and will get familiar with solving everyday problems in fast data and processing pipelines.
 
 This book covers the following exciting features:
 How to validate data with Kafka 
