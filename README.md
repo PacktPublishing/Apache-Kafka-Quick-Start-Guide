@@ -71,17 +71,6 @@ has been a programmer since 1996 and a Java developer since 2001. He loves all t
 
 Raúl is the author of other Packt Publishing titles, such as Fast Data Processing Systems with SMACK and Apache Kafka Cookbook.
 
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
 
 ## Other books by the author
 [Fast Data Processing Systems with SMACK Stack](https://www.packtpub.com/big-data-and-business-intelligence/fast-data-processing-systems-smack-stack?utm_source=github&utm_medium=repository&utm_campaign=9781786467201 )
