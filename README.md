@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-kafka-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788997829 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788997829_cover.png" alt="Apache Kafka Quick Start Guide " height="256px" align="right"></a>
 
-This is the code repository for [Apache Kafka Quick Start Guide ](https://www.packtpub.com/big-data-and-business-intelligence/apache-kafka-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788997829), published by Packt.
+This is the code repository for [Apache Kafka Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/apache-kafka-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781788997829), published by Packt.
 
 **Leverage Apache Kafka 2.0 to simplify real-time data processing for distributed applications**
 
