@@ -10,14 +10,14 @@ This is the code repository for [Apache Kafka Quick Start Guide](https://www.pac
 Apache Kafka is a great open source platform for handling your real-time data pipeline to ensure high-speed filtering and pattern matching on the ﬂy. In this book, you will learn how to use Apache Kafka for efficient processing of distributed applications and will get familiar with solving everyday problems in fast data and processing pipelines.
 
 This book covers the following exciting features:
-How to validate data with Kafka 
-Add information to existing data ?ows 
-Generate new information through message composition 
-Perform data validation and versioning with the Schema Registry 
-How to perform message Serialization and Deserialization 
-How to perform message Serialization and Deserialization 
-Process data streams with Kafka Streams 
-Understand the duality between tables and streams with KSQL 
+* How to validate data with Kafka 
+* Add information to existing data ﬂows
+* Generate new information through message composition 
+* Perform data validation and versioning with the Schema Registry 
+* How to perform message Serialization and Deserialization 
+* How to perform message Serialization and Deserialization 
+* Process data streams with Kafka Streams 
+* Understand the duality between tables and streams with KSQL 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788997824) today!
 
