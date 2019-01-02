@@ -53,9 +53,6 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------ | ----------------------------------- |
 | 3, 4, 5, 6, 7, 8 | Apache Kafka 2.0.0 Gradle 4.0 or above Confluent Platform 5.0.0 | macOS or Linux distribution released after 2014 (Ubuntu/Redhat/Debian) |
 
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
-
 ### Related products
 * Building Data Streaming Applications with Apache Kafka [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/building-data-streaming-applications-apache-kafka?utm_source=github&utm_medium=repository&utm_campaign=9781787283985 ) [[Amazon]](https://www.amazon.com/dp/1787283984)
 
